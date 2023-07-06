@@ -7,7 +7,7 @@ joblib==0.14.1
 numpy==1.18.2
 requests==2.23.0
 scikit-learn==0.22.2.post1
-scipy==1.4.1
+scipy==1.10.0
 sklearn==0.0
 soupsieve==2.0
 urllib3==1.26.5
